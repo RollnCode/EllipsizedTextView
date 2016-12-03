@@ -4,7 +4,7 @@
 EllipsizedTextView cuts your text if it takes more lines than you need.
 ## Getting Started
 ### Dependency
-Include the dependency [adasdDownload (.aar)](https://github.com/RollnCodeGit/ToolTipPopup/blob/master/app/libs/tooltippopup.aar) and place it into your libs directory:
+Include the dependency [Download (.aar)](https://github.com/RollnCode/EllipsizedTextView/blob/master/app/libs/ellipsizedtextview.aar) and place it into your libs directory:
 ```groovy
 allprojects {
     repositories {
